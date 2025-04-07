@@ -371,6 +371,7 @@ def print_rabbit():
     for line in rabbit:
         print(line)
 
+
 print("그림 출력 프로그램")
 print("=====================")
 print("1. 수줍은 맹구")
